@@ -1,4 +1,2 @@
 This is the first  line from my file
 edited from quickfix branch
-chnaged again
-changing for testing git squash
