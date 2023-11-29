@@ -1,2 +1,2 @@
-This is the first  line from my file
+nsertedThis is the first  line from my file
 edited from quickfix branch
